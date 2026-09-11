@@ -1,6 +1,6 @@
 # Staphylococcus aureus transmission across ecological niches
 
-This repository contains R scripts for the paper: "Hospital-centered environmental reservoirs and lineage-specific adaptations drive Staphylococcus aureus transmission across ecological niches".
+This repository contains R scripts for the paper: "Hospital-centred environmental interfaces and lineage-specific transmission modes shape Staphylococcus aureus connectivity across ecological niches".
 
 📄 License
 
